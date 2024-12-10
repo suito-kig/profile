@@ -1,0 +1,970 @@
+[
+    {
+        "title": "Pokémon Sleep",
+        "year": 2023
+    },
+    {
+        "title": "崩壊：スターレイル",
+        "year": 2023
+    },
+    {
+        "title": "ウマ娘 プリティーダービー",
+        "year": 2021
+    },
+    {
+        "title": "ゼルダの伝説 知恵のかりもの",
+        "year": 2024
+    },
+    {
+        "title": "Fallout 76",
+        "year": 2018
+    },
+    {
+        "title": "Fallout 4",
+        "year": 2015
+    },
+    {
+        "title": "Fallout: New Vegas",
+        "year": 2010
+    },
+    {
+        "title": "Fallout 3",
+        "year": 2008
+    },
+    {
+        "title": "スーパーマリオブラザーズ ワンダー",
+        "year": 2023
+    },
+    {
+        "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+        "year": 2023
+    },
+    {
+        "title": "ポケットモンスター スカーレット",
+        "year": 2022
+    },
+    {
+        "title": "ぐるみん3D",
+        "year": 2016
+    },
+    {
+        "title": "ポケットモンスター 緑",
+        "year": 1996
+    },
+    {
+        "title": "ポケットモンスター ムーン",
+        "year": 2016
+    },
+    {
+        "title": "妖怪ウォッチ3 スキヤキ",
+        "year": 2016
+    },
+    {
+        "title": "KIDS",
+        "year": 2019
+    },
+    {
+        "title": "ゼノブレイド3 新たなる未来",
+        "year": 2023
+    },
+    {
+        "title": "ゼノブレイド3",
+        "year": 2022
+    },
+    {
+        "title": "ゼノブレイド2 黄金の国イーラ",
+        "year": 2018
+    },
+    {
+        "title": "ゼノブレイド2",
+        "year": 2017
+    },
+    {
+        "title": "原神",
+        "year": 2020
+    },
+    {
+        "title": "星のカービィ ディスカバリー",
+        "year": 2022
+    },
+    {
+        "title": "Pokémon LEGENDS アルセウス",
+        "year": 2022
+    },
+    {
+        "title": "スーパーマリオ 3Dワールド ＋ フューリーワールド",
+        "year": 2021
+    },
+    {
+        "title": "スーパーマリオブラザーズ",
+        "year": 1985
+    },
+    {
+        "title": "スーパーマリオブラザーズ2",
+        "year": 1986
+    },
+    {
+        "title": "スーパーマリオブラザーズ3",
+        "year": 1988
+    },
+    {
+        "title": "スカイキッド",
+        "year": 1986
+    },
+    {
+        "title": "ドンキーコング",
+        "year": 1983
+    },
+    {
+        "title": "ファミコン探偵倶楽部 消えた後継者",
+        "year": 1988
+    },
+    {
+        "title": "ファミコン探偵倶楽部PartII うしろに立つ少女",
+        "year": 1989
+    },
+    {
+        "title": "メトロイド",
+        "year": 1986
+    },
+    {
+        "title": "ソニック・ザ・ヘッジホッグ",
+        "year": 1991
+    },
+    {
+        "title": "カエルのために鐘は鳴る",
+        "year": 1992
+    },
+    {
+        "title": "スーパーマリオブラザーズデラックス",
+        "year": 2000
+    },
+    {
+        "title": "スーパーマリオランド",
+        "year": 1989
+    },
+    {
+        "title": "スーパーマリオランド2 6つの金貨",
+        "year": 1992
+    },
+    {
+        "title": "スーパーマリオランド3 ワリオランド",
+        "year": 1994
+    },
+    {
+        "title": "ゼルダの伝説 夢をみる島DX",
+        "year": 1998
+    },
+    {
+        "title": "テトリス",
+        "year": 1989
+    },
+    {
+        "title": "ドンキーコングランド",
+        "year": 1996
+    },
+    {
+        "title": "バルーンファイトGB",
+        "year": 2000
+    },
+    {
+        "title": "ポケットモンスター赤",
+        "year": 1996
+    },
+    {
+        "title": "ポケットモンスター金",
+        "year": 1999
+    },
+    {
+        "title": "メトロイドII RETURN OF SAMUS",
+        "year": 1992
+    },
+    {
+        "title": "星のカービィ",
+        "year": 1992
+    },
+    {
+        "title": "カービィのきらきらきっず",
+        "year": 1997
+    },
+    {
+        "title": "女神転生外伝 ラストバイブル",
+        "year": 1992
+    },
+    {
+        "title": "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記",
+        "year": 2000
+    },
+    {
+        "title": "Gソニック",
+        "year": 1996
+    },
+    {
+        "title": "スーパーマリオワールド",
+        "year": 1990
+    },
+    {
+        "title": "ソニック・ザ・ヘッジホッグCD",
+        "year": 1993
+    },
+    {
+        "title": "風のクロノア door to phantomile",
+        "year": 1997
+    },
+    {
+        "title": "御神楽少女探偵団",
+        "year": 1998
+    },
+    {
+        "title": "続・御神楽少女探偵団 〜完結編〜",
+        "year": 1999
+    },
+    {
+        "title": "星のカービィ64",
+        "year": 2000
+    },
+    {
+        "title": "ポケットモンスタールビー",
+        "year": 2002
+    },
+    {
+        "title": "マリオ＆ルイージRPG",
+        "year": 2003
+    },
+    {
+        "title": "メイドインワリオ",
+        "year": 2003
+    },
+    {
+        "title": "リズム天国",
+        "year": 2006
+    },
+    {
+        "title": "伝説のスタフィー",
+        "year": 2002
+    },
+    {
+        "title": "伝説のスタフィー2",
+        "year": 2003
+    },
+    {
+        "title": "伝説のスタフィー3",
+        "year": 2004
+    },
+    {
+        "title": "星のカービィ夢の泉デラックス",
+        "year": 2002
+    },
+    {
+        "title": "星のカービィ鏡の大迷宮",
+        "year": 2004
+    },
+    {
+        "title": "ドンキーコンガ",
+        "year": 2003
+    },
+    {
+        "title": "ポケモンXD 闇の旋風ダーク・ルギア",
+        "year": 2005
+    },
+    {
+        "title": "大乱闘スマッシュブラザーズDX",
+        "year": 2001
+    },
+    {
+        "title": "pop'n music portable2",
+        "year": 2011
+    },
+    {
+        "title": "探偵 神宮寺三郎 灰とダイヤモンド",
+        "year": 2009
+    },
+    {
+        "title": "New スーパーマリオブラザーズ",
+        "year": 2006
+    },
+    {
+        "title": "おいでよどうぶつの森",
+        "year": 2005
+    },
+    {
+        "title": "ことばのパズル もじぴったんDS",
+        "year": 2007
+    },
+    {
+        "title": "さわるメイドインワリオ",
+        "year": 2004
+    },
+    {
+        "title": "やわらかあたま塾",
+        "year": 2005
+    },
+    {
+        "title": "ウィッシュルーム 天使の記憶",
+        "year": 2007
+    },
+    {
+        "title": "ゴーストトリック",
+        "year": 2010
+    },
+    {
+        "title": "スーパーマリオ64DS",
+        "year": 2004
+    },
+    {
+        "title": "タッチ!カービィ",
+        "year": 2005
+    },
+    {
+        "title": "ファイアーエムブレム新暗黒竜と光の剣",
+        "year": 2008
+    },
+    {
+        "title": "ポケットモンスターダイヤモンド",
+        "year": 2006
+    },
+    {
+        "title": "ポケットモンスタープラチナ",
+        "year": 2008
+    },
+    {
+        "title": "ポケットモンスターハートゴールド",
+        "year": 2009
+    },
+    {
+        "title": "ポケットモンスターブラック",
+        "year": 2010
+    },
+    {
+        "title": "ポケットモンスターブラック2",
+        "year": 2012
+    },
+    {
+        "title": "ポケモン不思議のダンジョン時の探検隊",
+        "year": 2007
+    },
+    {
+        "title": "ポケモン不思議のダンジョン空の探検隊",
+        "year": 2009
+    },
+    {
+        "title": "マリオ＆ルイージRPG2",
+        "year": 2005
+    },
+    {
+        "title": "マリオvs.ドンキーコング2 ミニミニ大行進!",
+        "year": 2007
+    },
+    {
+        "title": "メイドイン俺",
+        "year": 2009
+    },
+    {
+        "title": "リズム天国ゴールド",
+        "year": 2008
+    },
+    {
+        "title": "レイトン教授と不思議な町",
+        "year": 2007
+    },
+    {
+        "title": "レイトン教授と悪魔の箱",
+        "year": 2007
+    },
+    {
+        "title": "レイトン教授と最後の時間旅行",
+        "year": 2008
+    },
+    {
+        "title": "レイトン教授と魔神の笛",
+        "year": 2009
+    },
+    {
+        "title": "逆転裁判 蘇る逆転",
+        "year": 2005
+    },
+    {
+        "title": "逆転裁判2",
+        "year": 2002
+    },
+    {
+        "title": "逆転裁判3",
+        "year": 2004
+    },
+    {
+        "title": "逆転検事",
+        "year": 2009
+    },
+    {
+        "title": "逆転検事2",
+        "year": 2011
+    },
+    {
+        "title": "逆転裁判4",
+        "year": 2007
+    },
+    {
+        "title": "太鼓の達人DS タッチでドコドン！",
+        "year": 2007
+    },
+    {
+        "title": "めっちゃ！太鼓の達人DS 7つの島の大冒険",
+        "year": 2008
+    },
+    {
+        "title": "誰でもアソビ大全",
+        "year": 2005
+    },
+    {
+        "title": "Wi-Fi対応 世界の誰でもアソビ大全",
+        "year": 2007
+    },
+    {
+        "title": "星のカービィ 参上!ドロッチェ団",
+        "year": 2006
+    },
+    {
+        "title": "星のカービィウルトラスーパーデラックス",
+        "year": 2008
+    },
+    {
+        "title": "スーパーマリオギャラクシー",
+        "year": 2007
+    },
+    {
+        "title": "ソニック カラーズ",
+        "year": 2010
+    },
+    {
+        "title": "ソニックと暗黒の騎士",
+        "year": 2009
+    },
+    {
+        "title": "Wiiであそぶ メトロイドプライム",
+        "year": 2009
+    },
+    {
+        "title": "Wiiであそぶ メトロイドプライム2",
+        "year": 2009
+    },
+    {
+        "title": "メトロイドプライム3 コラプション",
+        "year": 2008
+    },
+    {
+        "title": "メトロイド Other M",
+        "year": 2010
+    },
+    {
+        "title": "ポケモンバトルレボリューション",
+        "year": 2006
+    },
+    {
+        "title": "大乱闘スマッシュブラザーズX",
+        "year": 2008
+    },
+    {
+        "title": "太鼓の達人Wii",
+        "year": 2008
+    },
+    {
+        "title": "みんなのリズム天国",
+        "year": 2011
+    },
+    {
+        "title": "ドンキーコング リターンズ",
+        "year": 2010
+    },
+    {
+        "title": "DECODE",
+        "year": 2008
+    },
+    {
+        "title": "DIGIDRIVE",
+        "year": 2009
+    },
+    {
+        "title": "nalaku",
+        "year": 2009
+    },
+    {
+        "title": "PiCOPiCT",
+        "year": 2009
+    },
+    {
+        "title": "ねらってスポっと！",
+        "year": 2009
+    },
+    {
+        "title": "ゼルダの伝説 4つの剣 25周年記念エディション",
+        "year": 2011
+    },
+    {
+        "title": "エクストルーパーズ",
+        "year": 2012
+    },
+    {
+        "title": "スーパーマリオ3Dランド",
+        "year": 2011
+    },
+    {
+        "title": "ゼルダの伝説 ムジュラの仮面 3D",
+        "year": 2015
+    },
+    {
+        "title": "ゼルダの伝説 時のオカリナ3D",
+        "year": 2011
+    },
+    {
+        "title": "ソニックジェネレーションズ 青の冒険",
+        "year": 2011
+    },
+    {
+        "title": "ソニック ロストワールド",
+        "year": 2013
+    },
+    {
+        "title": "とびだせどうぶつの森",
+        "year": 2012
+    },
+    {
+        "title": "ドンキーコング リターンズ 3D",
+        "year": 2013
+    },
+    {
+        "title": "ポケットモンスター Y",
+        "year": 2013
+    },
+    {
+        "title": "ポケットモンスター オメガルビー",
+        "year": 2014
+    },
+    {
+        "title": "ポケットモンスター ウルトラサン",
+        "year": 2017
+    },
+    {
+        "title": "ポケモンARサーチャー",
+        "year": 2012
+    },
+    {
+        "title": "マリオカート7",
+        "year": 2011
+    },
+    {
+        "title": "リズム怪盗R ナポレオンの遺産",
+        "year": 2012
+    },
+    {
+        "title": "リズム天国 ザ・ベスト＋",
+        "year": 2015
+    },
+    {
+        "title": "レイトン教授と奇跡の仮面",
+        "year": 2011
+    },
+    {
+        "title": "レイトン教授VS逆転裁判",
+        "year": 2012
+    },
+    {
+        "title": "逆転裁判5",
+        "year": 2013
+    },
+    {
+        "title": "逆転裁判6",
+        "year": 2016
+    },
+    {
+        "title": "大逆転裁判 -成歩堂龍ノ介の冒險-",
+        "year": 2015
+    },
+    {
+        "title": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
+        "year": 2017
+    },
+    {
+        "title": "新・世界樹の迷宮 ミレニアムの少女",
+        "year": 2013
+    },
+    {
+        "title": "新・光神話 パルテナの鏡",
+        "year": 2012
+    },
+    {
+        "title": "大合奏！バンドブラザーズP",
+        "year": 2004
+    },
+    {
+        "title": "星のカービィ トリプルデラックス",
+        "year": 2014
+    },
+    {
+        "title": "星のカービィ ロボボプラネット",
+        "year": 2016
+    },
+    {
+        "title": "妖怪ウォッチ2 真打",
+        "year": 2014
+    },
+    {
+        "title": "3D ソニック・ザ・ヘッジホッグ",
+        "year": 2013
+    },
+    {
+        "title": "3Dクラシックス 星のカービィ 夢の泉の物語",
+        "year": 2012
+    },
+    {
+        "title": "ガンマンストーリー",
+        "year": 2013
+    },
+    {
+        "title": "ガンマンストーリー2",
+        "year": 2015
+    },
+    {
+        "title": "スチームワールド ディグ",
+        "year": 2013
+    },
+    {
+        "title": "ニッキーの旅するクイズ",
+        "year": 2015
+    },
+    {
+        "title": "ピクロスe",
+        "year": 2011
+    },
+    {
+        "title": "ピクロスe2",
+        "year": 2011
+    },
+    {
+        "title": "ピクロスe3",
+        "year": 2013
+    },
+    {
+        "title": "クラブ.ニンテンドーピクロス",
+        "year": 2012
+    },
+    {
+        "title": "マイニンテンドーピクロス ゼルダの伝説トワイライトプリンセス",
+        "year": 2016
+    },
+    {
+        "title": "ハコボーイ！",
+        "year": 2015
+    },
+    {
+        "title": "ハコボーイ! ハコづめBOX",
+        "year": 2017
+    },
+    {
+        "title": "実写でちびロボ！",
+        "year": 2013
+    },
+    {
+        "title": "魔女と勇者",
+        "year": 2012
+    },
+    {
+        "title": "STEINS;GATE",
+        "year": 2009
+    },
+    {
+        "title": "STEINS;GATE 比翼恋理のだーりん",
+        "year": 2011
+    },
+    {
+        "title": "Sly Cooper Thieves in Time",
+        "year": 2013
+    },
+    {
+        "title": "ペルソナ4 ザ・ゴールデン",
+        "year": 2012
+    },
+    {
+        "title": "風ノ旅ビト",
+        "year": 2012
+    },
+    {
+        "title": "Celeste",
+        "year": 2018
+    },
+    {
+        "title": "Good Job!",
+        "year": 2020
+    },
+    {
+        "title": "Gorogoa",
+        "year": 2017
+    },
+    {
+        "title": "I Am Dead",
+        "year": 2020
+    },
+    {
+        "title": "Minit",
+        "year": 2018
+    },
+    {
+        "title": "Night in the Woods",
+        "year": 2017
+    },
+    {
+        "title": "Return of the Obra Dinn",
+        "year": 2018
+    },
+    {
+        "title": "Superliminal",
+        "year": 2019
+    },
+    {
+        "title": "The MISSING - J.J.マクフィールドと追憶島 -",
+        "year": 2018
+    },
+    {
+        "title": "VA-11 Hall-A",
+        "year": 2016
+    },
+    {
+        "title": "What Remains of Edith Finch 『フィンチ家の奇妙な屋敷でおきたこと』",
+        "year": 2017
+    },
+    {
+        "title": "Xenoblade Definitive Edition",
+        "year": 2020
+    },
+    {
+        "title": "あつまれ どうぶつの森",
+        "year": 2020
+    },
+    {
+        "title": "シャンティ -海賊の呪い- for Nintendo Switch",
+        "year": 2018
+    },
+    {
+        "title": "シャンティ:ハーフ・ジーニー ヒーロー アルティメット・エディション",
+        "year": 2018
+    },
+    {
+        "title": "スーパーマリオ オデッセイ",
+        "year": 2017
+    },
+    {
+        "title": "スチームワールドディグ2",
+        "year": 2017
+    },
+    {
+        "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+        "year": 2017
+    },
+    {
+        "title": "ゼルダ無双 厄災の黙示録",
+        "year": 2020
+    },
+    {
+        "title": "ドンキーコング トロピカルフリーズ",
+        "year": 2018
+    },
+    {
+        "title": "ポケットモンスター ソード",
+        "year": 2019
+    },
+    {
+        "title": "マリオカート8 デラックス",
+        "year": 2017
+    },
+    {
+        "title": "ロロロロ",
+        "year": 2017
+    },
+    {
+        "title": "深世海 Into the Depths",
+        "year": 2019
+    },
+    {
+        "title": "星のカービィ スターアライズ",
+        "year": 2018
+    },
+    {
+        "title": "妖怪ウォッチ1 for Nintendo Switch",
+        "year": 2019
+    },
+    {
+        "title": "8-Bit Bayonetta",
+        "year": 2017
+    },
+    {
+        "title": "A Bird Story",
+        "year": 2014
+    },
+    {
+        "title": "ABZÛ",
+        "year": 2016
+    },
+    {
+        "title": "Botanicula",
+        "year": 2012
+    },
+    {
+        "title": "Brothers - A Tale of Two Sons",
+        "year": 2013
+    },
+    {
+        "title": "Coffin Dodgers",
+        "year": 2015
+    },
+    {
+        "title": "Craftopia / クラフトピア",
+        "year": 2020
+    },
+    {
+        "title": "DELTARUNE Chapter1",
+        "year": 2018
+    },
+    {
+        "title": "Firewatch",
+        "year": 2016
+    },
+    {
+        "title": "Gizmo",
+        "year": 2018
+    },
+    {
+        "title": "Goat Simulator",
+        "year": 2014
+    },
+    {
+        "title": "Helltaker",
+        "year": 2020
+    },
+    {
+        "title": "Inside",
+        "year": 2016
+    },
+    {
+        "title": "Life Is Strange",
+        "year": 2016
+    },
+    {
+        "title": "LIMBO",
+        "year": 2011
+    },
+    {
+        "title": "Machinarium",
+        "year": 2009
+    },
+    {
+        "title": "Montaro",
+        "year": 2016
+    },
+    {
+        "title": "Mountain",
+        "year": 2014
+    },
+    {
+        "title": "Never Alone (Kisima Ingitchuna)",
+        "year": 2014
+    },
+    {
+        "title": "Octodad: Dadliest Catch",
+        "year": 2014
+    },
+    {
+        "title": "OneShot",
+        "year": 2016
+    },
+    {
+        "title": "Papo & Yo",
+        "year": 2012
+    },
+    {
+        "title": "Plug & Play",
+        "year": 2015
+    },
+    {
+        "title": "Portal",
+        "year": 2007
+    },
+    {
+        "title": "Portal2",
+        "year": 2011
+    },
+    {
+        "title": "Replica",
+        "year": 2016
+    },
+    {
+        "title": "Sonic Generations (PC)",
+        "year": 2011
+    },
+    {
+        "title": "Sonic Mania",
+        "year": 2017
+    },
+    {
+        "title": "SONIC THE HEDGEHOG 4",
+        "year": 2010
+    },
+    {
+        "title": "SONIC THE HEDGEHOG 4 Episode II ",
+        "year": 2012
+    },
+    {
+        "title": "Superflight",
+        "year": 2017
+    },
+    {
+        "title": "The Stanley Parable",
+        "year": 2011
+    },
+    {
+        "title": "Undertale",
+        "year": 2015
+    },
+    {
+        "title": "WATCH_DOGS",
+        "year": 2014
+    },
+    {
+        "title": "ソニックアドベンチャーDX",
+        "year": 2003
+    },
+    {
+        "title": "ソニックアドベンチャー2",
+        "year": 2001
+    },
+    {
+        "title": "ソニック ジェネレーションズ",
+        "year": 2011
+    },
+    {
+        "title": "ソニックフォース",
+        "year": 2017
+    },
+    {
+        "title": "タオルケットをもう一度3",
+        "year": 2008
+    },
+    {
+        "title": "ファウストの悪夢 - Fausts Alptraum",
+        "year": 2015
+    },
+    {
+        "title": "ファンタシースターオンライン2",
+        "year": 2012
+    },
+    {
+        "title": "ファンタシースターオンライン2 ニュージェネシス",
+        "year": 2021
+    },
+    {
+        "title": "青鬼",
+        "year": 2004
+    },
+    {
+        "title": "アイカツ！フォトonステージ！！",
+        "year": 2016
+    }
+]
