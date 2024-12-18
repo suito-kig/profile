@@ -56,7 +56,8 @@ function generateMarkdown(itemList, heading) {
     const sortedYears = Object.keys(years).sort((a, b) => b - a);
     sortedYears.forEach(year => {
         markdown += `## ${year}年\n\n`;
-        years[year].forEach(title => {
+        const sortedTitles = years[year].sort();
+        sortedTitles.forEach(title => {
             markdown += `- ${title}\n`;
         });
         markdown += "\n";
